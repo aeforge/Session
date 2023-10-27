@@ -2,6 +2,7 @@
     "name": "aeforge/session",
     "description": "AEForge Session component. Providing a way to deal with session across the application",
     "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
