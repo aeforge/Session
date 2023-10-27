@@ -1,0 +1,20 @@
+{
+    "name": "aeforge/session",
+    "description": "AEForge Session component. Providing a way to deal with session across the application",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aeforge\\Session\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AEForge"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
